@@ -13,27 +13,18 @@
 ## Summary of Findings
 
 - Trip duration histogram, it is right skewed with the most duration being about 500 seconds.
-<br>
 - Most bike users were male
-<br>
 - Most of the users were subscribers and the rest were customers
-<br>
 - The users year of birth distribution histogram is right skewed
-<br>
 - The trip duration seemed to be higher with the users born after 1980
-<br>
 - There is negative correlation between age and trip duration
 
 ## Key Insights for Presentation
 
 - Most of the bike users were male, comprising of over 86% of the total users. Most of these users are subscribers and the the rest customers.
-<br>
 - Further analysis into the age distribution shows that most users were between ages 25 to 45 years. As the age increases the number of bike users also significantly decreases.
-<br>
 - Most of the users start their bike trips at two peak times in a day: 8 A.M and 5PM. This is the duration where there is highest activity in starting and ending trips. 
-<br>
 - Lowest activity in bike usage (starting and ending trips) is experienced between 9PM and 6AM. There is moderate bike usage between 10AM and 3PM before the demand starts rising.
-<br>
 - The younger users (24-45) years old have the highest trip duration from the analysis and then the duration decreases with increase in age.
 
 
